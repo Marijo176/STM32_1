@@ -122,9 +122,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "manufacturing/")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
@@ -5134,7 +5134,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 1.52 0 180)
+			(at 2.35 -0.85 180)
 			(layer "F.SilkS")
 			(uuid "d5e1fe57-e27b-48f3-8f42-f98dcb8ba6da")
 			(effects
@@ -6693,7 +6693,7 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "inductor")
 		(property "Reference" "FB1"
-			(at 2.2875 0 180)
+			(at 2.1875 0.75 180)
 			(layer "F.SilkS")
 			(uuid "5df33b95-78db-4fdd-862d-1539bb7af718")
 			(effects
