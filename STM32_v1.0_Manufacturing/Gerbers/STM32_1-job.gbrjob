@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.7"
     },
-    "CreationDate": "2026-11-15T17:50:09+01:00"
+    "CreationDate": "2026-11-21T14:29:22+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -46,11 +46,6 @@
     {
       "Path": "STM32_1-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "STM32_1-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {

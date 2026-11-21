@@ -14,13 +14,6 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C13","1u","C_0402_1005Metric",91.020000,-73.500000,180.000000,top
 "D1","LED","LED_0603_1608Metric",117.750000,-75.692500,-90.000000,top
 "FB1","120R","L_0603_1608Metric",93.000000,-72.712500,-90.000000,top
-"H1","MountingHole","MountingHole_2.2mm_M2",117.500000,-55.000000,0.000000,top
-"H2","MountingHole","MountingHole_2.2mm_M2",117.500000,-82.500000,0.000000,top
-"H3","MountingHole","MountingHole_2.2mm_M2",83.500000,-82.500000,0.000000,top
-"H4","MountingHole","MountingHole_2.2mm_M2",83.500000,-55.000000,0.000000,top
-"J1","Conn_01x04_Pin","PinHeader_1x04_P2.54mm_Vertical",91.880000,-83.250000,90.000000,top
-"J2","Conn_01x04_Pin","PinHeader_1x04_P2.54mm_Vertical",97.750000,-54.250000,-90.000000,top
-"J3","Conn_01x04_Pin","PinHeader_1x04_P2.54mm_Vertical",103.360000,-54.250000,90.000000,top
 "J4","USB_B_Micro","USB_Micro-B_Wuerth_629105150521",116.500000,-65.755000,90.000000,top
 "R1","1k5","R_0402_1005Metric",117.750000,-72.490000,-90.000000,top
 "R2","1k5","R_0402_1005Metric",94.510000,-79.750000,0.000000,top
